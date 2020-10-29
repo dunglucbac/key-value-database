@@ -1,5 +1,6 @@
+import node, btree, nodekey
+
 import pickle
-from src import node, btree, nodekey
 
 
 class KeyValDB(btree.BTree):
