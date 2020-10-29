@@ -7,4 +7,4 @@ A key-value store is a database that operates similar to a Python dictionary but
 There are multiple implementations of the key-value store that are used in production grade systems worldwide. Some example open source implementations are Redis, CouchDB, Mongo, and Cassandra (which uses a b-tree as the underlying datastructure). These are just a few of the major projects that implement a key-value store that is similar to the one I've created.
 
 
-The purpose of this project is simply to help me learn how the underlying NoSQL database works and how to design a good API in production. Any recommendations would be great, feel free to contact me if you have any concerns.
+The purpose of this project is simply to help me learn how the underlying NoSQL database works and how to design a good API in production. Any recommendations would be great, feel free to contact me via email luu.quang-thang@outlook.com if you have any concerns.
