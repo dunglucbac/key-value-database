@@ -1,7 +1,5 @@
 from node import Node
 
-print(dir())
-
 
 class BTree:
     def __init__(self, t):
